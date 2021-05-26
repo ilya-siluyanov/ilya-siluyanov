@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div style="display:flex;justify-content:center;flex-flow:row;">
+  <div>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilya-siluyanov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+  </div>
+  <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilya-siluyanov)](https://github.com/anuraghazra/github-readme-stats)
-
+  </div>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilya-siluyanov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilya-siluyanov)](https://github.com/anuraghazra/github-readme-stats)
