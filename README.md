@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div style="display:flex;justify-content:center;flex-flow:row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilya-siluyanov&show_icons=true&theme=radical"/>
+  <img style="height:195" src="https://github-readme-stats.vercel.app/api?username=ilya-siluyanov&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilya-siluyanov&theme=radical&layout=compact"/>
 </div>
