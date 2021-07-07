@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilya-siluyanov&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilya-siluyanov&show_icons=true&theme=radical&count_private=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilya-siluyanov&theme=radical&layout=compact&line_height=24"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilya-siluyanov&theme=radical&layout=compact&line_height=24&count_private=true"/>
 </a>
